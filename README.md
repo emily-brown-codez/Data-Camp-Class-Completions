@@ -1,28 +1,28 @@
 # Data-Camp-Class-Completions
 Datacamp.com classes that I have completed
 
-Introduction to Python
+1 Introduction to Python
 
-Intermediate Python for Data Science
+2 Intermediate Python for Data Science
 
-Python Data Science Toolbox (Part 1)
+3 Python Data Science Toolbox (Part 1)
 
-Importing Data in Python (Part 1)
+4 Importing Data in Python (Part 1)
 
-Importing Data in Python (Part 2)
+5 Importing Data in Python (Part 2)
 
-Cleaning Data in Python
+6 Cleaning Data in Python
 
-pandas Foundations
+7 pandas Foundations
 
-Manipulating DataFrames with pandas
+8 Manipulating DataFrames with pandas
 
-Merging DataFrames with pandas
+9 Merging DataFrames with pandas
 
-Introduction to Databases in Python
+10 Introduction to Databases in Python
 
-Introduction to Data Visualization with Python
+11 Introduction to Data Visualization with Python
 
-Statistical Thinking in Python (Part 1)
+12 Statistical Thinking in Python (Part 1)
 
-Statistical Thinking in Python (Part 2)
+13 Statistical Thinking in Python (Part 2)
